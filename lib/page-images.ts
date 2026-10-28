@@ -1267,3 +1267,12 @@ pageImages["service-on-site-headshots"]=originalImagery["original-portraits"];
 pageImages["service-panel-discussion-photography"]=originalImagery["original-panel"];
 
 pageImages["page-services"]={"alt": "Event photographer capturing business delegates during a corporate networking reception", "altFr": "Photographe captant les échanges entre participants lors d’une réception d’entreprise", "width": 1600, "height": 1067, "source": "", "author": "EventPhoto.ca", "license": "Original illustrative marketing image", "licenseUrl": "", "requiresCredit": false, "fileKey": "services-header-v2", "objectPosition": "50% 42%"};
+
+// Images that can be displayed without a public credit section.
+pageImages["toronto-conference"]={...pageImages["original-keynote"],fileKey:pageImages["original-keynote"].fileKey||"original-keynote"};
+pageImages["industry-conferences-conventions"]={...pageImages["original-panel"],fileKey:pageImages["original-panel"].fileKey||"original-panel"};
+pageImages["industry-festivals"]={...pageImages["service-festival-photography"],fileKey:pageImages["service-festival-photography"].fileKey||"service-festival-photography"};
+pageImages["industry-marketing-pr-agencies"]={...pageImages["original-exhibition"],fileKey:pageImages["original-exhibition"].fileKey||"original-exhibition"};
+pageImages["industry-venues"]={...pageImages["service-venue-decor-photography"],fileKey:pageImages["service-venue-decor-photography"].fileKey||"service-venue-decor-photography"};
+pageImages["page-industries"]={...pageImages["original-networking"],fileKey:pageImages["original-networking"].fileKey||"original-networking"};
+pageImages["page-photographers"]={...pageImages["page-services"],fileKey:pageImages["page-services"].fileKey||"page-services"};

@@ -24,7 +24,3 @@ export function AssetPhoto({assetKey,hero=false,fr=false}:{assetKey:string;hero?
 export function PagePhoto({path,hero=false,fr=false}:{path:string;hero?:boolean;fr?:boolean}){
   return <AssetPhoto assetKey={pageImageKey(path)} hero={hero} fr={fr}/>;
 }
-
-export function PhotoCredits({keys,fr=false}:{keys:string[];fr?:boolean}){
-  const creditedKeys=keys.filter(key=>pageImages[key]?.requiresCredit!==false);if(!creditedKeys.length)return null;return <details className="photo-credits"><summary>{fr?'CRÉDITS PHOTO':'PHOTO CREDITS'}</summary><ul>{creditedKeys.map(key=>{const a=pageImages[key];return a?<li key={key}><a href={a.source} target="_blank" rel="noreferrer">{fr?'Photo':a.alt}</a> — {a.author}. <a href={a.licenseUrl} target="_blank" rel="noreferrer">{a.license}</a>{a.license.includes('CC')?(fr?' · Format et recadrage adaptés.':' · Resized and cropped for display.'):''}</li>:null})}</ul></details>;
-}

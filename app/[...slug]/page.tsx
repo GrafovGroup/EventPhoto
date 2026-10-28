@@ -1,4 +1,4 @@
-import {AssetPhoto,PhotoCredits,pageImageKey,imagePath} from '@/components/page-photo';
+import {AssetPhoto,pageImageKey,imagePath} from '@/components/page-photo';
 import {notFound} from 'next/navigation';
 import {allPaths,enPaths,frPaths,getPage,origin} from '@/lib/pages';
 import {ContentPage,HomeExtras,QuoteCTA,ServiceCards} from '@/components/content-page';
