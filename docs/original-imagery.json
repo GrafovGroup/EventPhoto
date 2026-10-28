@@ -79,6 +79,19 @@
       "requiresCredit": false,
       "fileKey": "original-panel",
       "objectPosition": "52% 43%"
+    },
+    "services-header-v2": {
+      "alt": "Event photographer capturing business delegates during a corporate networking reception",
+      "altFr": "Photographe captant les échanges entre participants lors d’une réception d’entreprise",
+      "width": 1600,
+      "height": 1067,
+      "source": "",
+      "author": "EventPhoto.ca",
+      "license": "Original illustrative marketing image",
+      "licenseUrl": "",
+      "requiresCredit": false,
+      "fileKey": "services-header-v2",
+      "objectPosition": "50% 42%"
     }
   }
 }

@@ -1265,3 +1265,5 @@ pageImages["service-gala-photography"]=originalImagery["original-gala"];
 pageImages["service-trade-show-photography"]=originalImagery["original-exhibition"];
 pageImages["service-on-site-headshots"]=originalImagery["original-portraits"];
 pageImages["service-panel-discussion-photography"]=originalImagery["original-panel"];
+
+pageImages["page-services"]={"alt": "Event photographer capturing business delegates during a corporate networking reception", "altFr": "Photographe captant les échanges entre participants lors d’une réception d’entreprise", "width": 1600, "height": 1067, "source": "", "author": "EventPhoto.ca", "license": "Original illustrative marketing image", "licenseUrl": "", "requiresCredit": false, "fileKey": "services-header-v2", "objectPosition": "50% 42%"};
