@@ -1,0 +1,4 @@
+'use client';
+import {BrandLogo} from './brand-logo';
+import {Sheet,SheetTrigger,SheetContent,SheetTitle,SheetDescription} from '@/components/ui/sheet';
+export function MobileMenu({fr=false}:{fr?:boolean}){const base=fr?'/fr':'';return <div className="mobile-menu"><Sheet><SheetTrigger className="menu-trigger">MENU</SheetTrigger><SheetContent><SheetTitle className="menu-title"><BrandLogo fr={fr}/></SheetTitle><SheetDescription className="sr-only">{fr?'Navigation principale':'Main navigation'}</SheetDescription><nav className="menu-links">{[['services','SERVICES','SERVICES'],['portfolio','GALLERY','GALERIE'],['locations','LOCATIONS','RÉGIONS'],['industries','INDUSTRIES','SECTEURS'],['photographers','PHOTOGRAPHER NETWORK','RÉSEAU DE PHOTOGRAPHES'],['contact','CONTACT','CONTACT']].map(([p,en,f])=><a href={`${base}/${p}/`} key={p}>{fr?f:en}</a>)}</nav></SheetContent></Sheet></div>}

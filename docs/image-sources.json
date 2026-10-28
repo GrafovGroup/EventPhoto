@@ -1,0 +1,89 @@
+[
+  {
+    "name": "hero",
+    "path": "/Users/grafov/Documents/Codex/2026-09-28/l/work/images/hero.jpg",
+    "image": "https://images.unsplash.com/photo-1551818255-e6e10975bc17?auto=format&fit=crop&w=2000&q=85",
+    "source": "https://unsplash.com/photos/uf2nnANWa8Q",
+    "author": "Samuel Pereira",
+    "license": "https://unsplash.com/license",
+    "alt": "Speaker and audience in a blue-lit conference auditorium",
+    "reuse": "Free commercial use under Unsplash License; attribution appreciated, not required. Do not imply company portfolio or endorsement."
+  },
+  {
+    "name": "networking",
+    "path": "/Users/grafov/Documents/Codex/2026-09-28/l/work/images/networking.jpg",
+    "image": "https://images.unsplash.com/photo-1561489413-985b06da5bee?auto=format&fit=crop&w=2000&q=85",
+    "source": "https://unsplash.com/photos/xRlI-L-kvrw",
+    "author": "Evangeline Shaw",
+    "license": "https://unsplash.com/license",
+    "alt": "Professionals in conversation around a conference table",
+    "reuse": "Free commercial use under Unsplash License; attribution appreciated, not required. Do not imply company portfolio or endorsement."
+  },
+  {
+    "name": "trade-show",
+    "path": "/Users/grafov/Documents/Codex/2026-09-28/l/work/images/trade-show-alternative.jpg",
+    "image": "https://images.unsplash.com/photo-1560439514-4e9645039924?auto=format&fit=crop&w=2000&q=85",
+    "source": "https://unsplash.com/photos/nOvIa_x_tfo",
+    "author": "Product School",
+    "license": "https://unsplash.com/license",
+    "alt": "Attendees networking beside exhibition tables in a bright event hall",
+    "reuse": "Free commercial use under Unsplash License; attribution appreciated, not required. Do not imply company portfolio or endorsement."
+  },
+  {
+    "name": "gala",
+    "path": "/Users/grafov/Documents/Codex/2026-09-28/l/work/images/gala.jpg",
+    "image": "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?auto=format&fit=crop&w=2000&q=85",
+    "source": "https://unsplash.com/photos/m8YjB0noWiY",
+    "author": "Ibrahim Boran",
+    "license": "https://unsplash.com/license",
+    "alt": "Round banquet tables beneath ballroom chandeliers",
+    "reuse": "Free commercial use under Unsplash License; attribution appreciated, not required. Do not imply company portfolio or endorsement."
+  },
+  {
+    "name": "festival",
+    "path": "/Users/grafov/Documents/Codex/2026-09-28/l/work/images/festival.jpg",
+    "image": "https://images.unsplash.com/photo-1565035010268-a3816f98589a?auto=format&fit=crop&w=2000&q=85",
+    "source": "https://unsplash.com/photos/So6YckShOVA",
+    "author": "Tijs van Leur",
+    "license": "https://unsplash.com/license",
+    "alt": "Audience member cheering toward a warmly lit concert stage",
+    "reuse": "Free commercial use under Unsplash License; attribution appreciated, not required. Do not imply company portfolio or endorsement."
+  },
+  {
+    "name": "brand-activation",
+    "path": "/Users/grafov/Documents/Codex/2026-09-28/l/work/images/brand-activation.jpg",
+    "image": "https://images.unsplash.com/photo-1766505843050-2c2a7554cae3?auto=format&fit=crop&w=2000&q=85",
+    "source": "https://unsplash.com/photos/1OtPe2kgczU",
+    "author": "niko linh",
+    "license": "https://unsplash.com/license",
+    "alt": "Visitors gathered around a branded pop-up event booth",
+    "reuse": "Free commercial use under Unsplash License; attribution appreciated, not required. Do not imply company portfolio or endorsement."
+  },
+  {
+    "name": "headshots",
+    "path": "/Users/grafov/Documents/Codex/2026-09-28/l/work/images/headshots.jpg",
+    "image": "https://images.unsplash.com/photo-1600878459138-e1123b37cb30?auto=format&fit=crop&w=2000&q=85",
+    "source": "https://unsplash.com/photos/YmQ8TrsieE4",
+    "author": "itay verchik",
+    "license": "https://unsplash.com/license",
+    "alt": "Professional portrait of a smiling man in a dark jacket",
+    "reuse": "Free commercial use under Unsplash License; attribution appreciated, not required. Do not imply company portfolio or endorsement."
+  },
+  {
+    "name": "celebration",
+    "path": "/Users/grafov/Documents/Codex/2026-09-28/l/work/images/celebration.jpg",
+    "image": "https://images.unsplash.com/photo-1699730164892-d7c433524ff3?auto=format&fit=crop&w=2000&q=85",
+    "source": "https://unsplash.com/photos/SdTKkcdz9mY",
+    "author": "OurWhisky Foundation",
+    "license": "https://unsplash.com/license",
+    "alt": "Guests raising glasses beneath confetti and balloons",
+    "reuse": "Free commercial use under Unsplash License; attribution appreciated, not required. Do not imply company portfolio or endorsement."
+  },
+  {
+    "name": "golf",
+    "author": "Jennifer Kalenberg",
+    "source": "https://unsplash.com/photos/a-group-of-people-walking-across-a-lush-green-golf-course-6Cd7aolwor8",
+    "image": "https://images.unsplash.com/photo-1695424911890-789b0f1c9ddb",
+    "license": "https://unsplash.com/license"
+  }
+]
