@@ -1,0 +1,84 @@
+{
+  "created": "2026-10-27",
+  "purpose": "Original AI-generated illustrative marketing scenes; not evidence of photographed client assignments. Do not label as completed projects or client portfolio work.",
+  "assets": {
+    "original-keynote": {
+      "alt": "Keynote speaker addressing a seated corporate conference audience",
+      "altFr": "Conférencière devant un public assis lors d’un congrès d’entreprise",
+      "width": 1600,
+      "height": 900,
+      "source": "",
+      "author": "EventPhoto.ca",
+      "license": "Original illustrative marketing image",
+      "licenseUrl": "",
+      "requiresCredit": false,
+      "fileKey": "original-keynote",
+      "objectPosition": "72% 48%"
+    },
+    "original-networking": {
+      "alt": "Three business professionals in conversation at an evening networking reception",
+      "altFr": "Trois professionnels en conversation lors d’une réception de réseautage",
+      "width": 1600,
+      "height": 1067,
+      "source": "",
+      "author": "EventPhoto.ca",
+      "license": "Original illustrative marketing image",
+      "licenseUrl": "",
+      "requiresCredit": false,
+      "fileKey": "original-networking",
+      "objectPosition": "50% 45%"
+    },
+    "original-gala": {
+      "alt": "Award recipient holding a crystal trophy as a presenter applauds",
+      "altFr": "Lauréate tenant un trophée en cristal sous les applaudissements de la présentatrice",
+      "width": 1600,
+      "height": 1067,
+      "source": "",
+      "author": "EventPhoto.ca",
+      "license": "Original illustrative marketing image",
+      "licenseUrl": "",
+      "requiresCredit": false,
+      "fileKey": "original-gala",
+      "objectPosition": "50% 40%"
+    },
+    "original-exhibition": {
+      "alt": "Product expert demonstrating a robotic arm to visitors at a business trade show",
+      "altFr": "Spécialiste présentant un bras robotisé à des visiteurs dans un salon professionnel",
+      "width": 1600,
+      "height": 1067,
+      "source": "",
+      "author": "EventPhoto.ca",
+      "license": "Original illustrative marketing image",
+      "licenseUrl": "",
+      "requiresCredit": false,
+      "fileKey": "original-exhibition",
+      "objectPosition": "50% 45%"
+    },
+    "original-portraits": {
+      "alt": "Photographer creating an executive portrait at an on-site headshot station",
+      "altFr": "Photographe réalisant un portrait de dirigeant dans un studio installé sur place",
+      "width": 1600,
+      "height": 1067,
+      "source": "",
+      "author": "EventPhoto.ca",
+      "license": "Original illustrative marketing image",
+      "licenseUrl": "",
+      "requiresCredit": false,
+      "fileKey": "original-portraits",
+      "objectPosition": "65% 42%"
+    },
+    "original-panel": {
+      "alt": "Moderator and business leaders in a panel discussion on stage",
+      "altFr": "Animatrice et dirigeants participant à une discussion sur scène",
+      "width": 1600,
+      "height": 1067,
+      "source": "",
+      "author": "EventPhoto.ca",
+      "license": "Original illustrative marketing image",
+      "licenseUrl": "",
+      "requiresCredit": false,
+      "fileKey": "original-panel",
+      "objectPosition": "52% 43%"
+    }
+  }
+}

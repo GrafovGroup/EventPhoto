@@ -1,4 +1,5 @@
-export type PageImage={alt:string;width:number;height:number;source:string;author:string;license:string;licenseUrl:string};
+import {originalImagery} from './original-imagery';
+export type PageImage={alt:string;width:number;height:number;source:string;author:string;license:string;licenseUrl:string;altFr?:string;fileKey?:string;requiresCredit?:boolean;objectPosition?:string};
 export const pageImages:Record<string,PageImage>={
   "home-canada": {
     "alt": "People mingling at an indoor event with warm lighting",
@@ -1252,3 +1253,15 @@ export const pageImages:Record<string,PageImage>={
     "licenseUrl": "https://unsplash.com/license"
   }
 };
+
+Object.assign(pageImages,originalImagery);
+pageImages["home-hero"]=originalImagery["original-keynote"];
+pageImages["home-corporate"]=originalImagery["original-networking"];
+pageImages["home-conference"]=originalImagery["original-panel"];
+pageImages["home-gala"]=originalImagery["original-gala"];
+pageImages["service-corporate-event-photography"]=originalImagery["original-keynote"];
+pageImages["service-networking-event-photography"]=originalImagery["original-networking"];
+pageImages["service-gala-photography"]=originalImagery["original-gala"];
+pageImages["service-trade-show-photography"]=originalImagery["original-exhibition"];
+pageImages["service-on-site-headshots"]=originalImagery["original-portraits"];
+pageImages["service-panel-discussion-photography"]=originalImagery["original-panel"];

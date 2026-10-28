@@ -42,3 +42,7 @@
 .button{background:#c5161d;border-color:#c5161d}.button.dark{background:#1f1f1f;border-color:#1f1f1f}.button.outline{background:transparent;border-color:#808080}.intro-strip{background:#c5161d}
 .header nav>a[hreflang]{display:inline-flex!important;align-items:center;justify-content:center;min-width:36px;min-height:44px}.menu-trigger{min-height:44px}.fields input:focus-visible,.fields textarea:focus-visible{outline:2px solid #b51219;outline-offset:2px}
 @media(max-width:540px){.hero h1{font-size:clamp(43px,10.8vw,62px)}.hero{height:auto;min-height:650px}.hero-content{padding-bottom:90px}.hero-bottom{gap:22px}.form-shell h1,.page-hero h1{overflow-wrap:anywhere}.header .brand-logo{width:clamp(122px,39vw,164px)}.header nav{gap:6px}.mobile-quote{bottom:max(12px,env(safe-area-inset-bottom))}}
+
+/* Editorial service imagery, with stable dimensions and room for the copy. */
+.service-link{overflow:hidden}.service-link>img{width:calc(100% + 60px);max-width:none;height:auto;aspect-ratio:3/2;object-fit:cover;margin:-30px -30px 25px}.b2b-photo-card>img{object-position:50% 42%}
+@media(max-width:540px){.hero>img[data-photo-key="home-hero"]{object-position:72% 50%!important}.hero-shade{background:linear-gradient(90deg,rgba(0,0,0,.76),rgba(0,0,0,.2)),linear-gradient(0deg,rgba(0,0,0,.65),transparent 65%)}}
