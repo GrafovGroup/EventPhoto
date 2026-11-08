@@ -1276,3 +1276,5 @@ pageImages["industry-marketing-pr-agencies"]={...pageImages["original-exhibition
 pageImages["industry-venues"]={...pageImages["service-venue-decor-photography"],fileKey:pageImages["service-venue-decor-photography"].fileKey||"service-venue-decor-photography"};
 pageImages["page-industries"]={...pageImages["original-networking"],fileKey:pageImages["original-networking"].fileKey||"original-networking"};
 pageImages["page-photographers"]={...pageImages["page-services"],fileKey:pageImages["page-services"].fileKey||"page-services"};
+
+pageImages["page-portfolio"]=originalImagery["original-networking"];

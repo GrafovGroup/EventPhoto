@@ -4,6 +4,7 @@ import {pageImages} from '@/lib/page-images';
 export function pageImageKey(path:string){
   const parts=path.replace(/^\/fr(?=\/)/,'').split('/').filter(Boolean);
   if(!parts.length)return 'home-hero';
+  if(parts[0]==='coverage')return 'original-panel';
   if(parts[0]==='services'&&parts[1])return 'service-'+parts[1];
   if(parts[0]==='industries'&&parts[1])return 'industry-'+parts[1];
   if(parts[0]==='locations'&&parts[3])return 'toronto-'+({'corporate-event-photography':'corporate','conference-photography':'conference','trade-show-photography':'trade-show'} as Record<string,string>)[parts[3]];
